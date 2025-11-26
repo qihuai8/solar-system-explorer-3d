@@ -1,6 +1,7 @@
 # Solar System Explorer 3D
 
 一个交互式3D太阳系模型，使用React、Three.js和React Three Fiber构建。这个项目提供了一个逼真的太阳系可视化体验，让用户可以探索行星、卫星和天体运动。
+可以在[这里](https://qihuai8.github.io/solar-system-explorer-3d/)查看在线演示。
 
 ## ✨ 功能特点
 
