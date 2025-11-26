@@ -1,0 +1,5 @@
+{
+  "name": "Solar System Explorer 3D",
+  "description": "A 3D interactive model of the Solar System using Three.js and React Fiber. Features include orbital paths, major moons, the Oort cloud, and time controls.",
+  "requestFramePermissions": []
+}
